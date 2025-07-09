@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="60" width="730" height="1630" as="geometry" />
+        </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-100" target="IhAJ0Qk-s9alv-YSADdO-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="780" as="targetPoint" />
@@ -25,37 +28,37 @@
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-100" value="" style="image;html=1;image=img/lib/clip_art/people/Security_Woman_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-180" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-1" value="Monitor Crowd Dynamics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-1" value="Monitor Crowd Dynamics" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-2" value="Predict Bottlenecks" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-2" value="Predict Bottlenecks" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-3" value="Generate Situational Summary" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-3" value="Generate Situational Summary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="290" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-4" value="Dispatch Resources" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-4" value="Dispatch Resources" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="290" y="630" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-5" value="Detect Anomalies" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-5" value="Detect Anomalies" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="290" y="790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-6" value="Manage Lost &amp;amp; Found" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-6" value="Manage Lost &amp;amp; Found" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="300" y="980" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-8" value="Control Autonomous Drone" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-8" value="Control Autonomous Drone" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="305" y="1130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-9" value="Track Response Units" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-9" value="Track Response Units" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="300" y="1300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-10" value="Configure System Settings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-10" value="Configure System Settings" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="305" y="1450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-12" value="Calculate Crowd Velocity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-12" value="Calculate Crowd Velocity" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-13" value="Analyze &amp;amp; Access Historical Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-13" value="Analyze &amp;amp; Access Historical Data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.927;exitY=0.303;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-2">
@@ -92,7 +95,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-18" value="Process Video Feed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-18" value="Process Video Feed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <object label="" id="IhAJ0Qk-s9alv-YSADdO-19">
@@ -130,10 +133,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-22" value="Process Natural Language Query" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-22" value="Process Natural Language Query" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="110" y="540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-23" value="Fuse Multi Source Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-23" value="Fuse Multi Source Data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="500" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-22" target="IhAJ0Qk-s9alv-YSADdO-3">
@@ -158,16 +161,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-26" value="Identify Incident Location" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-26" value="Identify Incident Location" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="110" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-27" value="Find Nearest Response Unit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-27" value="Find Nearest Response Unit" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="130" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-28" value="Calculate Optimal Route" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-28" value="Calculate Optimal Route" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="490" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-29" value="Send Alert Notification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-29" value="Send Alert Notification" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="490" y="790" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-27" target="IhAJ0Qk-s9alv-YSADdO-4">
@@ -230,12 +233,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-38" value="Detect Panic Indicators" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="115" y="920" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-38" target="IhAJ0Qk-s9alv-YSADdO-5">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.893;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-116" target="IhAJ0Qk-s9alv-YSADdO-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="880" as="sourcePoint" />
+            <mxPoint x="217.42640687119274" y="931.7157287525383" as="sourcePoint" />
             <mxPoint x="280" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -244,7 +244,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-40" value="Detect Smoke" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-40" value="Detect Smoke" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="490" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-5" target="IhAJ0Qk-s9alv-YSADdO-40">
@@ -258,13 +258,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-42" value="Scan for Missing Person" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-42" value="Scan for Missing Person" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="120" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-43" value="Match Photo Recognition" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-43" value="Match Photo Recognition" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="490" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-44" value="GPS Co-ordination on Incident Location" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-44" value="GPS Co-ordination on Incident Location" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="115" y="1230" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-42" target="IhAJ0Qk-s9alv-YSADdO-6">
@@ -326,7 +326,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-50" value="Manage system &amp;amp; permissions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-50" value="Manage system &amp;amp; permissions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="540" y="1340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="IhAJ0Qk-s9alv-YSADdO-50">
@@ -454,7 +454,7 @@
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-109" value="Medical Team" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-220" y="1590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IhAJ0Qk-s9alv-YSADdO-110" value="Provide Medical Support" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-110" value="Provide Medical Support" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="305" y="1590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IhAJ0Qk-s9alv-YSADdO-112" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.065;entryY=0.258;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.346;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IhAJ0Qk-s9alv-YSADdO-44" target="IhAJ0Qk-s9alv-YSADdO-110">
@@ -470,6 +470,12 @@
           <mxGeometry x="-0.4039" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-115" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PROJECT&amp;nbsp; DRISHTI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IhAJ0Qk-s9alv-YSADdO-116" value="Detect Emotional State of the Crowd" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="115" y="910" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
