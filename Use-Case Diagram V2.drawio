@@ -257,18 +257,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2KytA-D3xJXwT2xgLaa-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="q2KytA-D3xJXwT2xgLaa-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="q2KytA-D3xJXwT2xgLaa-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="q2KytA-D3xJXwT2xgLaa-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="q2KytA-D3xJXwT2xgLaa-59" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;PROJECT&amp;nbsp; DRISHTI&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="-25" width="200" height="40" as="geometry" />
         </mxCell>
