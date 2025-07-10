@@ -160,8 +160,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2KytA-D3xJXwT2xgLaa-59" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;PROJECT&amp;nbsp; DRISHTI&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="300" y="-25" width="200" height="40" as="geometry" />
+        <mxCell id="q2KytA-D3xJXwT2xgLaa-59" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;PROJECT&amp;nbsp; DRISHTI&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-25" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KgOcp3zL5TzuFMi9tkQG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="q2KytA-D3xJXwT2xgLaa-2">
           <mxGeometry relative="1" as="geometry">
